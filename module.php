@@ -14,6 +14,7 @@ class GoogleApiModule extends Module {
         
         putenv('GOOGLE_APPLICATION_CREDENTIALS=/var/www/appdev/simple-server/config/biere-library-24c45bfb875d.json');
 
+        $calendar = $calendarId . "@group.calendar.google.com";
 
         $client = new Google\Client();
 

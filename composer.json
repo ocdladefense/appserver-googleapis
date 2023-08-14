@@ -1,6 +1,6 @@
 {
-    "name": "ocdladefense/template-appserver-module",
-    "description": "Template for creating appserver modules.",
+    "name": "ocdladefense/appserver-googleapis",
+    "description": "Connect to various Google APIs.",
     "type": "wordpress-theme",
     "authors": [
         {

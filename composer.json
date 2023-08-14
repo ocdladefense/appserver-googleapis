@@ -1,0 +1,11 @@
+{
+    "name": "ocdladefense/template-appserver-module",
+    "description": "Template for creating appserver modules.",
+    "type": "wordpress-theme",
+    "authors": [
+        {
+            "name": "José Bernal",
+            "email": "jbernal.web.dev@gmail.com"
+        }
+    ]
+}

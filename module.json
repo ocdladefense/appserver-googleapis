@@ -1,0 +1,14 @@
+
+{
+	"name": "example",
+   "comment": "Example of an appserver module.",
+   "connectedApp": "default",
+	"description": "Example of an appserver module.",
+   "files": ["Example.php"],
+	"routes": {
+      "example/%param":{
+         "callback": "doAction",
+         "content-type": "text/html"
+      }
+    }
+}

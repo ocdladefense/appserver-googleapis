@@ -1,3 +1,5 @@
-# template-appserver-module
-PHP repository template for building appserver modules.
+# appserver-googleapis
+PHP repository for connecting to Google APIs, especially Google Calendar.
+
+
 
